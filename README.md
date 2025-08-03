@@ -1,8 +1,4 @@
-<! DOCTYPE html>
 <html>
-‎<head>
-<title> SONA 2025 </title>
-</head>
 <body>
 <center>
 <h1> SONA 2025 </h1>
